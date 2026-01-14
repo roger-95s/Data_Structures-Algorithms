@@ -238,19 +238,4 @@ Track solved problems here:
 ```
 
 ---
-
-## Next, I can help you with any of the following
-
-Tell me which you want next:
-
-1. Create**repository name & description**
-2. Generate**badges and table of contents**
-3. Add**first filled sections** for arrays and strings
-4. Provide**30-day structured practice plan**
-5. Provide**list of specific LeetCode + HackerRank problems**
-
-Just tell me:
-
-- Do you want me to add more content into this README now?
-- Or do you want help creating the GitHub repo description and tags?
 ```
